@@ -1,3 +1,3 @@
-#Introduction
+Introduction
 
-Halaman ini belum sepenuhnya jadi...
+Halaman ini belum sepenuhnya jadi...soon ya..
