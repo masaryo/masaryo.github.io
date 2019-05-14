@@ -1,5 +1,8 @@
 body {
-  background: #ff4f81;
+  background: #f2f6fa;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
  }
  
 .container {
