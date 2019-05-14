@@ -8,5 +8,8 @@ body {
  }
 
 .container h1 {
-  text-decoration: uppercase;
+  text-transform: uppercase;
+  color: white;
+  background: #ff4c4c;
+  padding: 15px 20px;
  }
