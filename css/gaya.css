@@ -16,3 +16,8 @@ body {
   background: #ff4c4c;
   padding: 15px 20px;
  }
+
+.container p {
+  color: grey;
+  font-weight: bold;
+ }
